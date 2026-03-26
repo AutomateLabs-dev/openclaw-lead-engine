@@ -3,6 +3,93 @@
 
 ---
 
+## Our Position
+
+**We are the agency.** We don't sell to agencies — we sell AI-driven business systems to businesses and DIY users.
+
+**We don't install tools. We assemble systems that produce outcomes.**
+
+---
+
+## Our Complete Stack
+
+### Core Platform (Foundation)
+| Component | Purpose |
+|-----------|---------|
+| **OpenClaw** | AI automation engine (agents, workflows, execution) |
+| **ClawLauncher** | Account management, client environments |
+| **AWS + Docker** | Infrastructure for all client instances |
+| **CourseSprout** | $47 membership site (training + onboarding) |
+
+### Funnel + Lead Capture
+| Component | Purpose |
+|-----------|---------|
+| **Quizforma** | Quiz funnels, lead qualification, routing |
+
+### Page / Funnel Builders
+| Component | Purpose |
+|-----------|---------|
+| **PageSprout** | Landing pages, opt-in pages, funnels |
+| **HeroSection Skill** | High-converting hero sections |
+
+### Copywriting Engine
+| Component | Purpose |
+|-----------|---------|
+| **Master Copywriter** | Offers, messaging, positioning |
+| **SalesPage Skill** | Long-form sales pages |
+| **VSL Skill** | Video sales letter scripts |
+| **Inbox Copywriter** | Email sequences, follow-ups |
+| **Letterman Skill** | Structured messaging, long-form content |
+
+### Content Engine
+| Component | Purpose |
+|-----------|---------|
+| **PostStream** | Social media content generation |
+
+### Monetization
+| Component | Purpose |
+|-----------|---------|
+| **CourseSprout** | Training delivery |
+| **Mintbird** | Offers, digital products, revenue systems |
+| **Stripe** | Payment processing |
+
+### Automation Control
+| Component | Purpose |
+|-----------|---------|
+| **GlobalControl** | Central orchestration, workflow management |
+
+### Lead Magnet
+| Component | Purpose |
+|-----------|---------|
+| **10 Special Skills Pack** | Entry value, trust builder, conversion tool |
+
+### Supporting Tools
+| Tool | Purpose | Cost |
+|------|---------|------|
+| **Book Like a Boss** | Calendar booking for business calls | TBD |
+| **CRM Skill** | Lead tracking (Byte installed) | Included |
+| **Discord** | Community for $47 members | Free |
+| **Canva** | Post graphics | Free tier |
+| **Facebook** | Posting, comments, DMs | Free |
+
+---
+
+## System Examples (What We Actually Sell)
+
+### Lead System
+Quizforma + PageSprout + Master Copywriter
+
+### Sales System
+SalesPage Skill + VSL Skill + Inbox Copywriter
+
+### Content System
+PostStream + Master Copywriter
+
+### Product System
+CourseSprout + Mintbird
+
+---
+
 ## Project Structure
 
 ```
@@ -33,16 +120,16 @@
 
 ### Day 1-2: Infrastructure Setup
 - [ ] Set up CourseSprout course structure
-- [ ] Create $47/month payment link (Stripe/PayPal)
-- [ ] Set up CRM/spreadsheet for lead tracking
-- [ ] Create Calendly for business calls
+- [ ] Create $47/month Stripe payment link
+- [ ] Confirm CRM skill is operational (Byte)
+- [ ] Set up Book Like a Boss for business calls
 - [ ] Set up onboarding payment link ($297)
 
 ### Day 3-4: Content Creation
 - [ ] Record welcome video for CourseSprout
 - [ ] Create first 3 Facebook posts (visuals + copy)
 - [ ] Write email sequences (activation, upgrade triggers)
-- [ ] Set up Discord/forum community
+- [ ] Set up Discord community
 
 ### Day 5-7: Testing
 - [ ] Test full flow: Comment → DM → Link → Signup
@@ -81,21 +168,6 @@
 - [ ] Hire/assign team member to DM management
 - [ ] Create content calendar (2 weeks ahead)
 - [ ] Build case studies from first wins
-- [ ] Prepare agency partner outreach
-
----
-
-## Tools Required
-
-| Tool | Purpose | Cost |
-|------|---------|------|
-| CourseSprout | Membership hosting | $97/month |
-| Stripe/PayPal | Payments | Transaction fees |
-| Calendly | Scheduling | Free tier |
-| Notion/Airtable | CRM/tracking | Free tier |
-| Discord | Community | Free |
-| Canva | Post graphics | Free tier |
-| Facebook Business | Posting/messaging | Free |
 
 ---
 
@@ -108,8 +180,8 @@
 
 **Midday (15 min):**
 - Respond to DM conversations
-- Update lead tracker
-- Book business calls
+- Update CRM via skill
+- Book business calls (Book Like a Boss)
 
 **Evening (10 min):**
 - Final comment check
@@ -137,7 +209,6 @@
 - 50+ active $47 members
 - 5+ business clients
 - $5,000+ MRR
-- 1 agency partner conversation
 
 ---
 
@@ -157,7 +228,7 @@
 
 1. **Today:** Review all deliverables, approve or revise
 2. **Tomorrow:** Set up CourseSprout structure
-3. **Day 3:** Create payment links and CRM
+3. **Day 3:** Create Stripe payment links, confirm CRM
 4. **Day 4:** Record welcome video, create first posts
 5. **Day 5:** Test complete flow end-to-end
 6. **Day 6-7:** Soft launch
