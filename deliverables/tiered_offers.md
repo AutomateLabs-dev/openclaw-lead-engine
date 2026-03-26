@@ -11,12 +11,12 @@
 "We set up your OpenClaw system for you, host it, and get you into the community."
 
 **What's Included:**
-- Hosted OpenClaw environment (VPS)
+- Hosted OpenClaw environment (AWS/Docker)
 - System installed and configured
 - Access to CourseSprout membership
 - Starter skill pack (5-7 essential skills)
 - Whitelabeled onboarding videos
-- Community support (Discord/forum)
+- Community support (Discord)
 - Monthly group Q&A calls
 
 **What's NOT Included:**
@@ -106,32 +106,29 @@
 
 ---
 
-## Tier 4: Agency/White-Label (Future)
+## System Upsells (For Business Clients)
 
-**Price:** TBD
-- Per-seat pricing
-- Bulk client pricing
-- Revenue share option
+Once business clients are onboarded, upsell complete systems:
 
-**Positioning:**
-"White-label OpenClaw for your clients."
+### Lead System
+- Quizforma + PageSprout + Copywriter
+- Setup: $1,497
+- Monthly: $297
 
-**What's Included:**
-- White-label platform (ClawLauncher)
-- Client management dashboard
-- Reseller pricing
-- Training for your team
-- Co-marketing support
+### Sales System
+- SalesPage + VSL + Inbox Copywriter
+- Setup: $1,997
+- Monthly: $297
 
-**Goal:**
-- Scale without headcount
-- Distribution channel
-- Recurring revenue multiplier
+### Content System
+- PostStream + Master Copywriter
+- Setup: $997
+- Monthly: $297
 
-**Ideal For:**
-- Marketing agencies
-- Consultants with client base
-- System integrators
+### Product System
+- CourseSprout + Mintbird setup
+- Setup: $2,497
+- Monthly: $297
 
 ---
 
@@ -191,7 +188,7 @@ Which area would move the needle most for you right now?
 ## Pricing Justification
 
 ### $47/month
-- VPS hosting: ~$15-25
+- AWS/Docker hosting: ~$15-25
 - CourseSprout: ~$10
 - Margin: ~$12-22/user
 - Purpose: Volume, activation, pipeline
@@ -215,8 +212,6 @@ Which area would move the needle most for you right now?
 **Onboarding can be bundled:** First month + onboarding = $297 (save $47)
 
 **Business clients can prepay:** 6 months = 10% off, 12 months = 20% off
-
-**Agency partners:** Volume pricing starts at 10+ seats
 
 ---
 
