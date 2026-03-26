@@ -1,5 +1,5 @@
 # OpenClaw Lead Engine — DM Conversation Scripts
-## Classification Flow: Personal vs Business vs Agency
+## Classification Flow: Personal vs Business
 
 ---
 
@@ -27,10 +27,10 @@ What part of that caught your attention most?
 
 **Message 2:**
 ```
-Nice — are you thinking of using something like this for yourself, your business, or for clients?
+Nice — are you thinking of using something like this for yourself, or for your business?
 ```
 
-**Goal:** Classify into Personal / Business / Agency
+**Goal:** Classify into Personal or Business
 
 ---
 
@@ -66,6 +66,15 @@ Plus onboarding videos so you're not figuring it out alone.
 
 Want to check it out?
 ```
+
+**If they sign up:**
+- Mark in CRM: "Active - DIY"
+- Add to onboarding email sequence
+- Flag for 7-day activation check
+
+**If they don't sign up within 48 hours:**
+- Single follow-up: "Still thinking it over? Happy to answer questions."
+- Then let them go cold
 
 ---
 
@@ -112,39 +121,6 @@ The community is $47/month, hosted environment included. You'll get access to al
 Fair warning though: it's self-serve. I don't do hands-on support at that level.
 
 Still want the link?
-```
-
----
-
-## Path 3: AGENCY (Service Provider)
-
-**Signal:** "For clients" / "My agency" / "I build sites" / "I do marketing"
-
-**Message 3:**
-```
-Agency use — I like it. That's actually the layer I'm building next.
-
-Are you thinking of using this to deliver work faster, or to offer AI team setups as a service to clients?
-```
-
-**If for delivery (internal use):**
-```
-Smart. Speed and quality without hiring.
-
-The $47 community gives you the system to learn and build. Or if you want it set up properly without the learning curve, I can do a business implementation.
-
-What are you currently delivering to clients? (So I know which systems would actually help)
-```
-
-**If for resale (offering to clients):**
-```
-That's exactly where this is heading. White-label AI team setups for your clients.
-
-I'm not fully ready to roll that out yet — still testing with a few people.
-
-But if you're serious about it, happy to have a conversation. The model would be per-seat or bulk pricing, you manage the client relationship.
-
-Want to jump on a quick call this week?
 ```
 
 ---
@@ -203,7 +179,7 @@ For business clients, I do a paid strategy call first — $200, applied to setup
 
 On that call, I'll show you exactly how it would work for your specific situation.
 
-Want to book a time?
+Want to book a time? (I use Book Like a Boss for scheduling)
 ```
 
 ---
@@ -214,7 +190,6 @@ Want to book a time?
 |------------------|----------|-----------|
 | "For me/myself" | Personal | $47 community |
 | "For my business/company" | Business | Qualify → $297+ service |
-| "For clients/agency" | Agency | Reseller convo or DIY |
 | Vague/unclear | Probe deeper | Ask qualifying question |
 
 ---
@@ -241,7 +216,7 @@ Want to book a time?
 - Price-sensitive
 - Wants to learn/build themselves
 
-**Flag for Agency Program:**
-- Wants to resell
-- Has client base
-- Asks about white-label
+**Flag for Dave:**
+- Complex technical questions
+- Unusual use cases
+- High-value opportunities
